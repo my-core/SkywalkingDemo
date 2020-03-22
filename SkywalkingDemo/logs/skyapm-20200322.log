@@ -1,0 +1,134 @@
+2020-03-22 18:01:16.742 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Initializing ...
+2020-03-22 18:01:16.838 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2020-03-22 18:01:16.839 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2020-03-22 18:01:16.839 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2020-03-22 18:01:16.843 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2020-03-22 18:01:16.927 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2020-03-22 18:01:16.928 +08:00 [SkywalkingDemo] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2020-03-22 18:01:16.928 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2020-03-22 18:01:16.986 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2020-03-22 18:01:16.986 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2020-03-22 18:01:17.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[127.0.0.1:11800].
+2020-03-22 18:01:46.865 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered Service[Id=2].
+2020-03-22 18:01:47.927 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=2].
+2020-03-22 18:02:12.034 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=2.11.15848713319850002.
+2020-03-22 18:02:13.913 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0571767s
+2020-03-22 18:02:16.958 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32765 32767 1000 1000
+2020-03-22 18:02:46.867 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:02:46 +00:00
+2020-03-22 18:02:46.938 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:03:16.932 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32766 32767 1000 1000
+2020-03-22 18:03:46.854 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:03:46 +00:00
+2020-03-22 18:03:46.937 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:11:04.519 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Initializing ...
+2020-03-22 18:11:04.581 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2020-03-22 18:11:04.582 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2020-03-22 18:11:04.582 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2020-03-22 18:11:04.582 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2020-03-22 18:11:04.582 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2020-03-22 18:11:04.582 +08:00 [SkywalkingDemo] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2020-03-22 18:11:04.583 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2020-03-22 18:11:04.647 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2020-03-22 18:11:04.647 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2020-03-22 18:11:04.800 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[127.0.0.1:11800].
+2020-03-22 18:11:05.209 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered Service[Id=2].
+2020-03-22 18:11:06.566 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=4].
+2020-03-22 18:11:07.453 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=4.11.15848718673920002.
+2020-03-22 18:11:07.632 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0335343s
+2020-03-22 18:11:08.445 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=4.18.15848718684400002.
+2020-03-22 18:11:10.604 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0067913s
+2020-03-22 18:11:13.286 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [SqlClientDiagnosticListener].
+2020-03-22 18:11:34.621 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:11:34 +00:00
+2020-03-22 18:11:34.622 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 5M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:12:04.598 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32761 32767 1000 1000
+2020-03-22 18:12:31.325 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Initializing ...
+2020-03-22 18:12:31.390 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2020-03-22 18:12:31.390 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2020-03-22 18:12:31.390 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2020-03-22 18:12:31.391 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2020-03-22 18:12:31.391 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2020-03-22 18:12:31.391 +08:00 [SkywalkingDemo] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2020-03-22 18:12:31.391 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2020-03-22 18:12:31.452 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2020-03-22 18:12:31.453 +08:00 [SkywalkingDemo] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2020-03-22 18:12:31.555 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[127.0.0.1:11800].
+2020-03-22 18:12:32.036 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered Service[Id=2].
+2020-03-22 18:12:33.114 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=5].
+2020-03-22 18:12:33.398 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.17.15848719533290002.
+2020-03-22 18:12:34.432 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0300487s
+2020-03-22 18:12:39.559 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [SqlClientDiagnosticListener].
+2020-03-22 18:12:39.753 +08:00 [SkywalkingDemo] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [SqlClientDiagnosticListener].
+2020-03-22 18:12:39.776 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.4.15848719597550003.
+2020-03-22 18:12:40.103 +08:00 [SkywalkingDemo] [Debug] SkyApm.Transport.AsyncQueueSegmentDispatcher : Dispatch trace segment. [SegmentId]=5.4.15848719593850002.
+2020-03-22 18:12:40.410 +08:00 [SkywalkingDemo] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0131094s
+2020-03-22 18:13:01.418 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:13:01 +00:00
+2020-03-22 18:13:01.420 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:13:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32761 32767 1000 1000
+2020-03-22 18:14:01.406 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:14:01 +00:00
+2020-03-22 18:14:01.408 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32762 32767 1000 1000
+2020-03-22 18:14:31.400 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:15:01.405 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:15:01 +00:00
+2020-03-22 18:15:01.407 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.03125 GenCollectCount 1 1 0 3M ThreadPool 32761 32767 1000 1000
+2020-03-22 18:15:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 3M ThreadPool 32762 32767 1000 1000
+2020-03-22 18:16:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:16:01 +00:00
+2020-03-22 18:16:01.408 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 3M ThreadPool 32761 32767 1000 1000
+2020-03-22 18:16:31.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 4M ThreadPool 32762 32767 1000 1000
+2020-03-22 18:17:01.401 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:17:01 +00:00
+2020-03-22 18:17:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 4M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:17:31.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 4M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:18:01.400 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:18:01 +00:00
+2020-03-22 18:18:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 4M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:18:31.405 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 5M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:19:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 5M ThreadPool 32762 32767 1000 1000
+2020-03-22 18:19:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:19:01 +00:00
+2020-03-22 18:19:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 5M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:20:01.399 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:20:01 +00:00
+2020-03-22 18:20:01.401 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 5M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:20:31.400 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:21:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 6M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:21:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:21:01 +00:00
+2020-03-22 18:21:31.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:22:01.414 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 6M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:22:01.414 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:22:01 +00:00
+2020-03-22 18:22:31.399 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:23:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:23:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:23:01 +00:00
+2020-03-22 18:23:31.407 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 7M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:24:01.401 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:24:01 +00:00
+2020-03-22 18:24:01.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:24:31.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:25:01.401 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:25:01.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:25:01 +00:00
+2020-03-22 18:25:31.405 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:26:01.410 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:26:01.410 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:26:01 +00:00
+2020-03-22 18:26:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:27:01.399 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:27:01 +00:00
+2020-03-22 18:27:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:27:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 9M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:28:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:28:01 +00:00
+2020-03-22 18:28:01.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:28:31.410 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 10M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:29:01.401 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:29:01 +00:00
+2020-03-22 18:29:01.405 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:29:31.406 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:30:01.424 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:30:01.425 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:30:01 +00:00
+2020-03-22 18:30:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:31:01.406 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:31:01.409 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:31:01 +00:00
+2020-03-22 18:31:31.400 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32763 32767 1000 1000
+2020-03-22 18:32:01.406 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:32:01 +00:00
+2020-03-22 18:32:01.408 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32761 32767 1000 1000
+2020-03-22 18:32:31.405 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 12M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:33:01.399 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:33:01.399 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:33:01 +00:00
+2020-03-22 18:33:31.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32764 32767 1000 1000
+2020-03-22 18:34:01.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:34:01 +00:00
+2020-03-22 18:34:01.406 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 13M ThreadPool 32762 32767 1000 1000
+2020-03-22 18:34:31.408 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:35:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:35:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:35:01 +00:00
+2020-03-22 18:35:31.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:36:01.402 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.PingService : Ping server @2020/3/22 星期日 10:36:01 +00:00
+2020-03-22 18:36:01.404 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32759 32767 1000 1000
+2020-03-22 18:36:31.403 +08:00 [SkywalkingDemo] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 14M ThreadPool 32759 32767 1000 1000
